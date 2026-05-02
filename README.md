@@ -14,6 +14,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" alt="Markdown">
+
 
 ---
 
@@ -32,9 +35,8 @@
 
 | Technologie | Progression |
 |---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> C | █████████░░░░░░░░░░░ 48% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> | █████████░░░░░░░░░░░ 48% |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript | █████████░░░░░░░░░░░ 45% |
-| Markdown | ██████████████░░░░░░ 70% |
 
 ---
 
