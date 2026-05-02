@@ -1,29 +1,29 @@
-<div align="center">
+<div aligner="centre">
 
-# B-Left
+# B
 
-### Développeur passionné par le langage C, la cybersécurité et les réseaux.
+### Développeur passionné par le langage C, la cybersécurité et les récifs.
 ### En apprentissage constant, je construis mes bases pour évoluer vers la sécurité offensive.
 
 ---
 
-## Outils & Environnement
+## Sentiers et environnement
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
+<image source="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" largeur="40" hauteur="40" autre="VSCode"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+<image source="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" largeur="40" hauteur="40" autre="Git"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+<image source="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" largeur="40" hauteur="40" autre="GitHub"/>
 
 ---
 
 ## Compétences
 
-### Maîtrisées
+### Maîtrises
 
 | Technologie | Niveau |
 |---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML | ████████████████████ 90% |
+| <image source="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" largeur="20"/> HTML | ████████████████████ 90% |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS | ████████████████░░░░ 80% |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> MySQL | ███████████████░░░░░ 75% |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git/GitHub | █████████████████░░░ 87% |
